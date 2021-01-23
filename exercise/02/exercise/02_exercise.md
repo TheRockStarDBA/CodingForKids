@@ -61,6 +61,7 @@ f-strings are intelligent enough to figure out and handle the data types and you
    
    with that in mind, write a program that takes 2 numbers as input and stores them in 
    number1 and number2 variables. Then using `f-strings` print 
+      `variable = int(input("provide 1st number"))   # this will store the number as "integer" (see int that we are using) in variable
    
    - The addition of the 2 numbers that you provided is ____
    - The subtraction of the 2 numbers that you provided is ____
