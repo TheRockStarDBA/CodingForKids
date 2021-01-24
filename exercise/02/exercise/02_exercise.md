@@ -58,7 +58,7 @@ f-strings are intelligent enough to figure out and handle the data types and you
    Hint : use a total_items variable to add the quantities that you purchased.
    
 ## Problem 4: 
-   we learned to day that you you can use `input` to ask and wait for user to input some data. e.g.
+   we learned today that you you can use `input` to ask and wait for user to input some data. e.g.
    
    `first_name = input("what is your first name?") `
    
@@ -89,5 +89,6 @@ f-strings are intelligent enough to figure out and handle the data types and you
    And they all learn Python with Teacher Shah.
    all students enjoy learning Python, as Python is quite fun, and Teacher Shah is quite fun.
    ```
+   Hint : You can use multiple f-strings to print per line.
    
   
