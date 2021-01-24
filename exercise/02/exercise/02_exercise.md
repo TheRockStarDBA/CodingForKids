@@ -14,6 +14,7 @@ print(first_name + ' is '+ my_integer+ ' years old')
 With **f-strings**, you can simply surround the objects in the `print()` function with `{}` and print will take care of handling the data types ! How cool is that !!
 
 Now you can just do (in our previous example) as 
+
 ```
 print(f"{first_name} is {my_integer} years old.")
 
@@ -40,16 +41,20 @@ f-strings are intelligent enough to figure out and handle the data types and you
    - item3 is avacados 
 
   print below sentence using `f-strings`
+  
   `At the grocery store, I bought some apples,bananas and avacados` 
   
 ## Problem 3:
   In the above problem, add quantities of each item
-    - item1_quantity = 5
-    - item2_quantity = 10
-    - item3_quantity = 12
+  
+   - item1_quantity = 5
+   - item2_quantity = 10
+   - item3_quantity = 12
    
    print below sentence using `f-strings`
+   
    `At grocery store, I bought 5 apples, 10 bananas and 12 avacados. I got total 27 items from grocery store !`
+   
    Hint : use a total_items variable to add the quantities that you purchased.
    
 ## Problem 4: 
@@ -61,6 +66,7 @@ f-strings are intelligent enough to figure out and handle the data types and you
    
    with that in mind, write a program that takes 2 numbers as input and stores them in 
    number1 and number2 variables. Then using `f-strings` print 
+   
       `variable = int(input("provide 1st number"))   # this will store the number as "integer" (see int that we are using) in variable
    
    - The addition of the 2 numbers that you provided is ____
