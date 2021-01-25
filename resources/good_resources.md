@@ -1,0 +1,5 @@
+- [Why Should Kids Learn to Code?](https://codewizardshq.com/python-for-kids/)
+- [Euler Problems - pythonfiddle.com](http://pythonfiddle.com/)
+- [Practice Python](http://www.practicepython.org/resources-for-learners/)
+- [Visualize your python code](http://pythontutor.com/visualize.html#mode=edit) : Mostly useful for advance coders, but helpful to novice to understand how things work 
+- [Github search to discover cool repos - python for kids](https://github.com/search?l=Python&p=2&q=python+problem+kids&type=Code)
