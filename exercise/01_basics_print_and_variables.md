@@ -7,7 +7,7 @@
 5. print the varaiables created in question 4
 6. Assign / store variables created in question 4 in a new variable. print the variable e.g. print(variable1+variable2+variable3)
 7. There are 20 coins that you found when diving deep into an ocean. You found another 10 coins that were magical 10. When you came out of ocean, it seems that 3 coins were lost. Print how many total coins you have left.
-8. Create 2 variables and assign any number to each of them. Then print out : 
+8. Create two (2) variables and assign any number to each of them. Then print out : 
 
     a. Add 2 variables
     
