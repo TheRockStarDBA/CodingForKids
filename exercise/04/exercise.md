@@ -22,3 +22,13 @@
    - ask if user wants to play again 
    - if N , then break out of loop
 ```
+
+#### Concepts that are included 
+
+- Random function / module
+- Variables
+- Integers
+- Input/Output
+- Print
+- While loops
+- If/Else statements
