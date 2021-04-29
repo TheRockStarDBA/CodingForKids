@@ -13,3 +13,16 @@ This repo contains all the materials that I have used to teach Computer Science 
 - Then I thought, why just my son should I teach .. why not the kids of my friends ?
 - It all started when I posted a message in my friend's group that I am planning to do a "Pilot" program on teaching Kids Computer Science.
 - All my friends applauded my idea and now I am teaching a group of 15 kids - from North East region (mainly US, Canada).
+
+### Sponsors
+Yes, you read it right. With my initiative, there are sponsors that sponsor my small effort of teaching computational thinking and coding (esp in python) to 2nd graders and up. 
+
+A huge THANK YOU from kids and myself to below sponsors :
+
+- [Pybites](https://codechalleng.es/bites/newbie)
+  -  They have sponsored their platform for **free** for all the kids that I am teaching. Thank you Bob Belderbos ([@bbelderbos](https://twitter.com/bbelderbos)) and Julian from Pybites!
+
+- [replit.com](https://replit.com/~)
+     - This being remote program, kids were struggling with python syntax (esp spacking !). We were using google colab. I wanted a platform that allows sharing just like google docs where the remote person can see what the other person is doing + you can start live thread for the code etc.
+     - I reached out to Amjad Masad ([@amasad](https://twitter.com/amasad)) - CEO of replit.com. He was generous enough to offer their [education team suit](https://replit.com/site/teams) for **free**.
+
