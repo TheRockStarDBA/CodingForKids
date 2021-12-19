@@ -1,4 +1,4 @@
-#### Python List and Tuple exercise
+## Python List, Tuple and dictionary exercise
 
 #### 1. Given a tuple below, how to access 30 from the tuple
 
