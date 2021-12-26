@@ -42,7 +42,7 @@ New Name: name_New
 The new list is ['name1','name2','name3','name_New','name5']
 ```
 
-#### 4: Write a program to create a dictionary that lets you 
+#### 5: Write a program to create a dictionary that lets you 
    - add words and their defination
    - Look up them later
    - tell user if the word is not in dictionary.
