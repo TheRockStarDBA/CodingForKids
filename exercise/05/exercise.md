@@ -55,6 +55,6 @@ Add or lookup a word (a / l)? l
 Give me a word : Gondal
 Place where Akshar deri is located
 Add or lookup a word (a / l)? l
-Give me a work : Gadhda
+Give me a word : Gadhda
 That word is not found in dictionary.. try adding that word!
 ```
